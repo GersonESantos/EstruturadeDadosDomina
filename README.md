@@ -12,5 +12,9 @@
    - [#7 - Mão na Massa: Ponteiro de Ponteiros](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/ponteiro)
    - [#8 - Ponteiros: Exercícios](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/ponteiro)
  - **Funções**
-   - [#9 - Passagem por Valor](https://github.com/GersonESantos/EstruturadeDadosDomina/blob/main/fun%C3%A7oes/codes/passagem-por-valor.c)
-   - [#10 - Codificando Funções](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/funcoes)
+   - [#9 - Passagem por Valor](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/fun%C3%A7oes)
+   - [#10 - Codificando Funções](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/fun%C3%A7oes)
+   - [#11 - Passagem por Referência](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/fun%C3%A7oes)
+   - [#12 - Funções - Exercícios](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/fun%C3%A7oes)
+- **Vetores e Tipos de Alocação**
+  - [#13 - Vetores Estáticos](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/vetores-e-tipos-de-alocacao)
