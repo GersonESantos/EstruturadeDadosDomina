@@ -18,3 +18,9 @@
    - [#12 - Funções - Exercícios](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/fun%C3%A7oes)
 - **Vetores e Tipos de Alocação**
   - [#13 - Vetores Estáticos](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/vetores-e-tipos-de-alocacao)
+  - [#14 - Vetores e Aritmética de Ponteiros](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/vetores-e-tipos-de-alocacao)
+  - [#15 - Tipos de Alocação de Memória](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/vetores-e-tipos-de-alocacao)
+  - [#16 - Alocação Dinâmica na Prática](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/vetores-e-tipos-de-alocacao)
+  - [#17 - Vetores: Exemplos Práticos](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/vetores-e-tipos-de-alocacao)
+  - [#18 - Função para Desalocar Vetores Dinâmicos](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/vetores-e-tipos-de-alocacao)
+  - [#19 - Vetores - Mais Exercícios](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/vetores-e-tipos-de-alocacao)
