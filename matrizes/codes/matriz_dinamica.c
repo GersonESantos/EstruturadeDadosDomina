@@ -34,7 +34,7 @@ int main() {
         puts("");
     }
 
-r
+
     /********* DESALOCAÇÃO DE MATRIZES DINÂMICA *********/
     for (int i = 0; i < nrows; i++) {
         free(m[i]);
