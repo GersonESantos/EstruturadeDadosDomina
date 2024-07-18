@@ -25,8 +25,8 @@
   - [#18 - Função para Desalocar Vetores Dinâmicos](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/vetores-e-tipos-de-alocacao)
   - [#19 - Vetores - Mais Exercícios](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/vetores-e-tipos-de-alocacao)
   - **Matrizes**
-  - [#20 - Matrizes Estáticas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
-  - [#21 - Matrizes Dinâmicas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
-  - [#22 - Matrizes 3D](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
-  - [#23 - Desalocando Matrizes Dinâmicas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
-  - [#24 - Matrizes: Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
+  - [#20 - Matrizes Estáticas](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/matrizes)
+  - [#21 - Matrizes Dinâmicas](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/matrizes)
+  - [#22 - Matrizes 3D](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/matrizes)
+  - [#23 - Desalocando Matrizes Dinâmicas](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/matrizes)
+  - [#24 - Matrizes: Exercícios](https://github.com/GersonESantos/EstruturadeDadosDomina/tree/main/matrizes)
